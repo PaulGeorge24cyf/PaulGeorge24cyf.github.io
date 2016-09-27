@@ -1,0 +1,15 @@
+{
+  "name": "lifegame",
+  "version": "1.0.0",
+  "description": "this is lifegame",
+  "main": "lifegame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cyf",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
