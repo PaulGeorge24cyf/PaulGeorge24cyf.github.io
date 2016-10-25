@@ -1,0 +1,35 @@
+#lifegame_canvas{
+	position:fixed;
+	width:1000px;
+	height:1000px;
+	left:50px;
+	top:50px;
+}
+#content{
+	position:fixed;
+	left:270px; 
+	top:220px;
+	width:500px;
+	height:550px;
+}
+#title{
+	position:fixed;
+	left:150px;
+	top:50px;
+	width:400px;
+	height:200px;
+}
+.big_text{
+	font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;
+	font-size: 50px;
+	color: white; 
+}
+.text{
+	font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;
+	font-size: 20px;
+	color: white;
+}
+body{
+	background: url("./resources/background.jpg");
+	background-size: 100%;
+}
